@@ -1,0 +1,14 @@
+ Volume in drive D is Data
+ Volume Serial Number is 241A-6C3B
+
+ Directory of D:\JAVA DEMO
+
+05-06-2020  12:09    <DIR>          .
+05-06-2020  12:09    <DIR>          ..
+02-06-2020  14:26               474 hello.class
+02-06-2020  14:26               159 hello.java
+05-06-2020  12:09                 0 test1.txt
+02-06-2020  14:53               478 welcome.class
+02-06-2020  14:52               161 welcome.java
+               5 File(s)          1,272 bytes
+               2 Dir(s)  211,448,811,520 bytes free
